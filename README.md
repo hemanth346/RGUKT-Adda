@@ -1,1 +1,1 @@
-# RGUKT-Adda
+# MVP for our college ecosystem app
